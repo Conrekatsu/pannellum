@@ -59,3 +59,5 @@ The panoramic image provided with the examples is licensed under the [Creative C
 
 * [Matthew Petroff](http://mpetroff.net/), Original Author
 * [three.js](https://github.com/mrdoob/three.js) r40, Former Underlying Framework
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/pannellum)
